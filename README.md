@@ -10,7 +10,7 @@
 ### 📺 扫码关注我的视频号 (WeChat Channels)
 如果你想看我“走遍大千世界每一处开满鲜花的角落”，欢迎扫码：
 
-![WeChat Channels](Channel.png)
+![WeChat Channels](Channel.jpg)
 
 ---
 
