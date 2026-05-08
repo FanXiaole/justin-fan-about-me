@@ -1,18 +1,20 @@
 # Hi, I'm Justin Fan 👋
 
 ### 🚀 About Me
-- **ESTJ** | **SUSTECH** | **AI + FINANCE**
-- 梦想成为能够改变世界的算法工程师。
-- 与其空想，不如去闯！
+- **Personality**: ESTJ
+- **Education**: Southern University of Science and Technology (SUSTech)
+- **Focus**: AI + Finance
+- **Mission**: Aspiring Algorithm Engineer dedicated to building world-changing solutions.
+- **Motto**: "Stop dreaming, start doing."
 
 ---
 
-### 📺 扫码关注我的视频号 (WeChat Channels)
-如果你想看我“走遍大千世界每一处开满鲜花的角落”，欢迎扫码：
+### 📺 Follow My Journey (WeChat Channels)
+Join me as I explore the most vibrant corners of the globe. Scan the QR code to follow my WeChat Channels:
 
 ![WeChat Channels](Channel.jpg)
 
 ---
 
 > [!TIP]
-> 旅游重度成瘾患者，目前正在探索世界。
+> **Severe Wanderlust**: Currently on a mission to explore every corner of the world. 🌍✈️
