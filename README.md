@@ -13,8 +13,3 @@
 Join me as I explore the most vibrant corners of the globe. Scan the QR code to follow my WeChat Channels:
 
 ![WeChat Channels](Channel.jpg)
-
----
-
-> [!TIP]
-> **Severe Wanderlust**: Currently on a mission to explore every corner of the world. 🌍✈️
