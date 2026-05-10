@@ -3,7 +3,7 @@
 - **Personality**: ESTJ
 - **Education**: Southern University of Science and Technology (SUSTech)
 - **Focus**: AI (major) + Finance (minor)
-- **Mission**: Aspiring Algorithm Engineer dedicated to building world-changing solutions.
+- **Mission**: Aspiring AI Researcher dedicated to building world-changing solutions.
 - **Motto**: "Stop dreaming, start doing."
 ---
 ### 🌳 Knowledge Tree
@@ -47,5 +47,5 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 ---
 ### 📺 Follow My Journey (WeChat Channels)
-Join me as I explore the most vibrant corners of the globe. Scan the QR code to follow my WeChat Channels:
+Follow along as I document my exploration of AI, practice British English pronunciation, and share travel diaries from around the world. Scan the QR code to subscribe:
 ![WeChat Channels](Channel.jpg)
