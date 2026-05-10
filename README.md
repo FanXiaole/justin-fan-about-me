@@ -16,8 +16,8 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Calculus I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Calculus%20I.pdf) | Pending Summary... |
-| **Calculus II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Calculus%20II.pdf) | Pending Summary... |
+| **Calculus I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Calculus%20l.pdf) | Pending Summary... |
+| **Calculus II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Calculus%20ll.pdf) | Pending Summary... |
 | **Linear Algebra** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Linear%20Algebra.pdf) | Pending Summary... |
 | **Discrete Mathematics** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Discrete%20Mathematics.pdf) | Pending Summary... |
 | **Probability & Statistics** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Probability%20%26%20Statistics.pdf) | Pending Summary... |
@@ -37,8 +37,8 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Physics I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Physics%20I.pdf) | Pending Summary... |
-| **Physics II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Physics%20II.pdf) | Pending Summary... |
+| **Physics I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Physics%20l.pdf) | Pending Summary... |
+| **Physics II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Physics%20ll.pdf) | Pending Summary... |
 | **Physics Experiment** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Physics%20Experiment.pdf) | Pending Summary... |
 | **Chemistry** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Chemistry.pdf) | Pending Summary... |
 | **Earth Science** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/blob/main/notes/Earth%20Science.pdf) | Pending Summary... |
