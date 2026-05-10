@@ -13,7 +13,7 @@
 This section serves as a digital library of my academic journey at SUSTech. I've categorized my notes into Mathematics, Computer Science, and Science & Humanities.
 
 > [!TIP]
-> **View Guide:** Since these PDFs are stored via Git LFS, if you see a "Too big to display" message, please click the **"Download"** or **"View raw"** button on the file page to read the full content.
+> **View Guide:** These PDFs are hosted via **Git LFS**. After clicking the link, if the document doesn't preview automatically, simply click the **"Download"** or **"View raw"** button on the target page.
 
 <details>
 <summary><b>📐 Mathematics & Modeling</b></summary>
