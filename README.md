@@ -17,12 +17,12 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Calculus I** | [View Notes](https://drive.google.com/file/d/1Eq1o5PSp7uUjdVBne_MBrg9Bwvg0BZfT/preview) | Pending Summary... |
-| **Calculus II** | [View Notes](https://drive.google.com/file/d/1el5UCxs9cMGJmGmbRW1J14BB3XbfQO1R/preview) | Pending Summary... |
-| **Linear Algebra** | [View Notes](https://drive.google.com/file/d/1L9CafIB9HmRtkf3STEfIGCCls7u8YGMU/preview) | Pending Summary... |
-| **Discrete Mathematics** | [View Notes](https://drive.google.com/file/d/1QXpbH5c9PyaV_njkJ6NSXGEMuj5bu2E1/preview) | Pending Summary... |
-| **Probability & Statistics** | [View Notes](https://drive.google.com/file/d/1Y6ciYrKbPHIAITny6wcbLP1d6VIwXfut/preview) | Pending Summary... |
-| **Mathematical Modeling** | [View Notes](https://drive.google.com/file/d/1qEVM3MVhvNmmckYaK3y-aNQnz5gzGuAg/preview) | Pending Summary... |
+| **Calculus I** | [View Notes](https://drive.google.com/file/d/1rR329nKuCoflBfHAKFlb5jTaantVO0eh/preview) | Pending Summary... |
+| **Calculus II** | [View Notes](https://drive.google.com/file/d/1WRyhzVnyWo4X6drgc1nDvCGQVn6kf9AH/preview) | Pending Summary... |
+| **Linear Algebra** | [View Notes](https://drive.google.com/file/d/18iQwkL8y5PLYpJwk-DOXdn2eikBV28GP/preview) | Pending Summary... |
+| **Discrete Mathematics** | [View Notes](https://drive.google.com/file/d/1PR8saE61mlnlNbc8v6cftlnfKEH_r5F1/preview) | Pending Summary... |
+| **Probability & Statistics** | [View Notes](https://drive.google.com/file/d/1zJqCq70NS4WV8-EUqAnogymQXs1mILXn/preview) | Pending Summary... |
+| **Mathematical Modeling** | [View Notes](https://drive.google.com/file/d/1gevbtQZAGxg3gEtWCY4iRsCcSBn67Vwi/preview) | Pending Summary... |
 
 </details>
 
@@ -31,11 +31,11 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Data Structure Lecture** | [View Notes](https://drive.google.com/file/d/1ea0AqmoFBHfyxSCeRdJCOuPv7hL0y9fI/preview) | Pending Summary... |
-| **Data Structure Lab** | [View Notes](https://drive.google.com/file/d/1N3IX0nmNDMoKDlRKwtO1bXgI_pKw6JA_/preview) | Pending Summary... |
-| **Digital Logic Lecture** | [View Notes](https://drive.google.com/file/d/12ZGqEMdPBntyEaemItHN53yngjPG-Wm2/preview) | Pending Summary... |
-| **Digital Logic Lab** | [View Notes](https://drive.google.com/file/d/1QBNwaE1-sAQMv-528Abomyh8pl4Z2KJK/preview) | Pending Summary... |
-| **Java** | [View Notes](https://drive.google.com/file/d/1fkghlokSRXEr5ODcJrY8lNeTdgbtGL6t/preview) | Pending Summary... |
+| **Data Structure Lecture** | [View Notes](https://drive.google.com/file/d/1g4-YgQ5JbMdn7P1tpWUJbOq1X5GJj9vZ/preview) | Pending Summary... |
+| **Data Structure Lab** | [View Notes](https://drive.google.com/file/d/1Dy7_zSvW5jrOUqNwwCSjHgJKtVCHnOyv/preview) | Pending Summary... |
+| **Digital Logic Lecture** | [View Notes](https://drive.google.com/file/d/1z8qy-h4D3eSVGf1wIxEyL2SNQhzsnWBw/preview) | Pending Summary... |
+| **Digital Logic Lab** | [View Notes](https://drive.google.com/file/d/1oegiCJ_fr6meAwtSu3Z-SZZwLCG5_xL3/preview) | Pending Summary... |
+| **Java** | [View Notes](https://drive.google.com/file/d/1-DKfVHbvS4ex_Arq0mMPcN8BMtKHOkB2/preview) | Pending Summary... |
 
 </details>
 
@@ -44,13 +44,13 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Physics I** | [View Notes](https://drive.google.com/file/d/1tJAXPeNWm7KhwxovuldTiqIph2mfs5sW/preview) | Pending Summary... |
-| **Physics II** | [View Notes](https://drive.google.com/file/d/1ojEtb1vXQC5pGVBjYxH6WkZWrB3AhL2W/preview) | Pending Summary... |
-| **Physics Experiment** | [View Notes](https://drive.google.com/file/d/1sHDAiTWYxjfnlJOXMVU0ZfqlM1nzApFy/preview) | Pending Summary... |
-| **Chemistry** | [View Notes](https://drive.google.com/file/d/1mhczMMxL_zBorgHhWW6lpMW8IQoWDaZg/preview) | Pending Summary... |
-| **Earth Science** | [View Notes](https://drive.google.com/file/d/1RzIYhXT7-bWDgYUeGxQSCm6Pwd5UEwdi/preview) | Pending Summary... |
-| **Economics** | [View Notes](https://drive.google.com/file/d/1MjrVWTGw3k1w6kBcmSjngiscn3C47Fbe/preview) | Pending Summary... |
-| **EAP (English)** | [View Notes](https://drive.google.com/file/d/1jLznz341GPRi6IqV8bBM1JNRUTsItm2B/preview) | Pending Summary... |
+| **Physics I** | [View Notes](https://drive.google.com/file/d/1W3Y-9rsTW3mxWXrumVqfXFhGvlzZWEcT/preview) | Pending Summary... |
+| **Physics II** | [View Notes](https://drive.google.com/file/d/1xmPkCMFcvRF3fFfhL7skxD-Sl1SBm45S/preview) | Pending Summary... |
+| **Physics Experiment** | [View Notes](https://drive.google.com/file/d/11A6qJsRgtriiLkh34qcORG2VaotIT2QA/preview) | Pending Summary... |
+| **Chemistry** | [View Notes](https://drive.google.com/file/d/1lJZ-UDMIzJZnTUaP05d6q_0XcKm69eV6/preview) | Pending Summary... |
+| **Earth Science** | [View Notes](https://drive.google.com/file/d/16fI08NlUr8akCX6rAtBeiXz9Cn10GahJ/preview) | Pending Summary... |
+| **Economics** | [View Notes](https://drive.google.com/file/d/1pefrDt0wVB12ysm8UfHSasUHtaDV63cq/preview) | Pending Summary... |
+| **EAP (English)** | [View Notes](https://drive.google.com/file/d/1g7eNUSEuf7ViZrggT-Hw_zwuPCvxSDJI/preview) | Pending Summary... |
 
 </details>
 
