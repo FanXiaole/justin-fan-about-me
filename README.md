@@ -10,49 +10,40 @@
 This section serves as a digital library of my academic journey at SUSTech. I've categorized my notes into Mathematics, Computer Science, and Science & Humanities.
 
 > [!IMPORTANT]
-> **View Guide:** Click **"View Notes"** to open the document in Google Drive's built-in PDF viewer. No download required.
+> **View Guide:** Click **"Download Notes"** to download the PDF. Files are high-resolution scanned notes from SUSTech.
 
-<details>
-<summary><b>📐 Mathematics & Modeling</b></summary>
-
-| Subject | Resource | Status/Abstract |
-| :--- | :--- | :--- |
-| **Calculus I** | [View Notes](https://drive.google.com/file/d/1rR329nKuCoflBfHAKFlb5jTaantVO0eh/preview) | Pending Summary... |
-| **Calculus II** | [View Notes](https://drive.google.com/file/d/1WRyhzVnyWo4X6drgc1nDvCGQVn6kf9AH/preview) | Pending Summary... |
-| **Linear Algebra** | [View Notes](https://drive.google.com/file/d/18iQwkL8y5PLYpJwk-DOXdn2eikBV28GP/preview) | Pending Summary... |
-| **Discrete Mathematics** | [View Notes](https://drive.google.com/file/d/1PR8saE61mlnlNbc8v6cftlnfKEH_r5F1/preview) | Pending Summary... |
-| **Probability & Statistics** | [View Notes](https://drive.google.com/file/d/1zJqCq70NS4WV8-EUqAnogymQXs1mILXn/preview) | Pending Summary... |
-| **Mathematical Modeling** | [View Notes](https://drive.google.com/file/d/1gevbtQZAGxg3gEtWCY4iRsCcSBn67Vwi/preview) | Pending Summary... |
-
-</details>
-
-<details>
-<summary><b>💻 Computer Science & Engineering</b></summary>
+#### 📐 Mathematics & Modeling
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Data Structure Lecture** | [View Notes](https://drive.google.com/file/d/1g4-YgQ5JbMdn7P1tpWUJbOq1X5GJj9vZ/preview) | Pending Summary... |
-| **Data Structure Lab** | [View Notes](https://drive.google.com/file/d/1Dy7_zSvW5jrOUqNwwCSjHgJKtVCHnOyv/preview) | Pending Summary... |
-| **Digital Logic Lecture** | [View Notes](https://drive.google.com/file/d/1z8qy-h4D3eSVGf1wIxEyL2SNQhzsnWBw/preview) | Pending Summary... |
-| **Digital Logic Lab** | [View Notes](https://drive.google.com/file/d/1oegiCJ_fr6meAwtSu3Z-SZZwLCG5_xL3/preview) | Pending Summary... |
-| **Java** | [View Notes](https://drive.google.com/file/d/1-DKfVHbvS4ex_Arq0mMPcN8BMtKHOkB2/preview) | Pending Summary... |
+| **Calculus I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Calculus%20I.pdf) | Pending Summary... |
+| **Calculus II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Calculus%20II.pdf) | Pending Summary... |
+| **Linear Algebra** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Linear%20Algebra.pdf) | Pending Summary... |
+| **Discrete Mathematics** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Discrete%20Mathematics.pdf) | Pending Summary... |
+| **Probability & Statistics** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Probability%20%26%20Statistics.pdf) | Pending Summary... |
+| **Mathematical Modeling** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Mathematical%20Modeling.pdf) | Pending Summary... |
 
-</details>
-
-<details>
-<summary><b>🔬 Science, Economics & Skills</b></summary>
+#### 💻 Computer Science & Engineering
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Physics I** | [View Notes](https://drive.google.com/file/d/1W3Y-9rsTW3mxWXrumVqfXFhGvlzZWEcT/preview) | Pending Summary... |
-| **Physics II** | [View Notes](https://drive.google.com/file/d/1xmPkCMFcvRF3fFfhL7skxD-Sl1SBm45S/preview) | Pending Summary... |
-| **Physics Experiment** | [View Notes](https://drive.google.com/file/d/11A6qJsRgtriiLkh34qcORG2VaotIT2QA/preview) | Pending Summary... |
-| **Chemistry** | [View Notes](https://drive.google.com/file/d/1lJZ-UDMIzJZnTUaP05d6q_0XcKm69eV6/preview) | Pending Summary... |
-| **Earth Science** | [View Notes](https://drive.google.com/file/d/16fI08NlUr8akCX6rAtBeiXz9Cn10GahJ/preview) | Pending Summary... |
-| **Economics** | [View Notes](https://drive.google.com/file/d/1pefrDt0wVB12ysm8UfHSasUHtaDV63cq/preview) | Pending Summary... |
-| **EAP (English)** | [View Notes](https://drive.google.com/file/d/1g7eNUSEuf7ViZrggT-Hw_zwuPCvxSDJI/preview) | Pending Summary... |
+| **Data Structure Lecture** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Data%20Structure%20Lecture.pdf) | Pending Summary... |
+| **Data Structure Lab** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Data%20Structure%20Lab.pdf) | Pending Summary... |
+| **Digital Logic Lecture** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Digital%20Logic%20Lecture.pdf) | Pending Summary... |
+| **Digital Logic Lab** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Digital%20Logic%20Lab.pdf) | Pending Summary... |
+| **Java** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Java.pdf) | Pending Summary... |
 
-</details>
+#### 🔬 Science, Economics & Skills
+
+| Subject | Resource | Status/Abstract |
+| :--- | :--- | :--- |
+| **Physics I** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Physics%20I.pdf) | Pending Summary... |
+| **Physics II** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Physics%20II.pdf) | Pending Summary... |
+| **Physics Experiment** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Physics%20Experiment.pdf) | Pending Summary... |
+| **Chemistry** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Chemistry.pdf) | Pending Summary... |
+| **Earth Science** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Earth%20Science.pdf) | Pending Summary... |
+| **Economics** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/Economics.pdf) | Pending Summary... |
+| **EAP (English)** | [Download Notes](https://github.com/fanxiaole/justin-fan-about-me/raw/main/notes/EAP.pdf) | Pending Summary... |
 
 ---
 ### 📺 Follow My Journey (WeChat Channels)
