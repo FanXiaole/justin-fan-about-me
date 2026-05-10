@@ -12,20 +12,20 @@
 ### 🌳 Knowledge Tree
 This section serves as a digital library of my academic journey at SUSTech. I've categorized my notes into Mathematics, Computer Science, and Science & Humanities.
 
-> [!TIP]
-> **Reading Guide:** Due to the high-resolution quality of these notes (7.3GB+ in total), some browsers may take a few seconds to render the preview. Clicking the **"Direct Preview"** links below will bypass the GitHub file explorer and open the PDF directly in your browser's native viewer.
+> [!IMPORTANT]
+> **View Guide:** These are high-resolution PDFs (7.3GB total). Clicking **"Direct View"** will open the document in your browser's native PDF reader for the best experience.
 
 <details>
 <summary><b>📐 Mathematics & Modeling</b></summary>
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Calculus I** | [Direct Preview](./notes/Calculus%20I.pdf?raw=true) | Pending Summary... |
-| **Calculus II** | [Direct Preview](./notes/Calculus%20II.pdf?raw=true) | Pending Summary... |
-| **Linear Algebra** | [Direct Preview](./notes/Linear%20Algebra.pdf?raw=true) | Pending Summary... |
-| **Discrete Mathematics** | [Direct Preview](./notes/Discrete%20Mathematics.pdf?raw=true) | Pending Summary... |
-| **Probability & Statistics** | [Direct Preview](./notes/Probability%20&%20Statistics.pdf?raw=true) | Pending Summary... |
-| **Mathematical Modeling** | [Direct Preview](./notes/Mathematical%20Modeling.pdf?raw=true) | Pending Summary... |
+| **Calculus I** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Calculus%20I.pdf) | Pending Summary... |
+| **Calculus II** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Calculus%20II.pdf) | Pending Summary... |
+| **Linear Algebra** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Linear%20Algebra.pdf) | Pending Summary... |
+| **Discrete Mathematics** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Discrete%20Mathematics.pdf) | Pending Summary... |
+| **Probability & Statistics** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Probability%20&%20Statistics.pdf) | Pending Summary... |
+| **Mathematical Modeling** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Mathematical%20Modeling.pdf) | Pending Summary... |
 
 </details>
 
@@ -34,11 +34,11 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Data Structure Lecture** | [Direct Preview](./notes/Data%20Structure%20Lecture.pdf?raw=true) | Pending Summary... |
-| **Data Structure Lab** | [Direct Preview](./notes/Data%20Structure%20Lab.pdf?raw=true) | Pending Summary... |
-| **Digital Logic Lecture** | [Direct Preview](./notes/Digital%20Logic%20Lecture.pdf?raw=true) | Pending Summary... |
-| **Digital Logic Lab** | [Direct Preview](./notes/Digital%20Logic%20Lab.pdf?raw=true) | Pending Summary... |
-| **Java** | [Direct Preview](./notes/Java.pdf?raw=true) | Pending Summary... |
+| **Data Structure Lecture** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Data%20Structure%20Lecture.pdf) | Pending Summary... |
+| **Data Structure Lab** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Data%20Structure%20Lab.pdf) | Pending Summary... |
+| **Digital Logic Lecture** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Digital%20Logic%20Lecture.pdf) | Pending Summary... |
+| **Digital Logic Lab** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Digital%20Logic%20Lab.pdf) | Pending Summary... |
+| **Java** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Java.pdf) | Pending Summary... |
 
 </details>
 
@@ -47,13 +47,13 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Physics I** | [Direct Preview](./notes/Physics%20I.pdf?raw=true) | Pending Summary... |
-| **Physics II** | [Direct Preview](./notes/Physics%20II.pdf?raw=true) | Pending Summary... |
-| **Physics Experiment** | [Direct Preview](./notes/Physics%20Experiment.pdf?raw=true) | Pending Summary... |
-| **Chemistry** | [Direct Preview](./notes/Chemistry.pdf?raw=true) | Pending Summary... |
-| **Earth Science** | [Direct Preview](./notes/Earth%20Science.pdf?raw=true) | Pending Summary... |
-| **Economics** | [Direct Preview](./notes/Economics.pdf?raw=true) | Pending Summary... |
-| **EAP (English)** | [Direct Preview](./notes/EAP.pdf?raw=true) | Pending Summary... |
+| **Physics I** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Physics%20I.pdf) | Pending Summary... |
+| **Physics II** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Physics%20II.pdf) | Pending Summary... |
+| **Physics Experiment** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Physics%20Experiment.pdf) | Pending Summary... |
+| **Chemistry** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Chemistry.pdf) | Pending Summary... |
+| **Earth Science** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Earth%20Science.pdf) | Pending Summary... |
+| **Economics** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/Economics.pdf) | Pending Summary... |
+| **EAP (English)** | [Direct View](https://justinfan7777777.github.io/justin-fan-about-me/notes/EAP.pdf) | Pending Summary... |
 
 </details>
 
