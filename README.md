@@ -2,7 +2,7 @@
 ### 🚀 About Me
 - **Personality**: ESTJ
 - **Education**: Southern University of Science and Technology (SUSTech)
-- **Focus**: AI + Finance
+- **Focus**: AI (major) + Finance (minor)
 - **Mission**: Aspiring Algorithm Engineer dedicated to building world-changing solutions.
 - **Motto**: "Stop dreaming, start doing."
 ---
