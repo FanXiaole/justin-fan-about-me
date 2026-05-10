@@ -12,21 +12,20 @@
 ### 🌳 Knowledge Tree
 This section serves as a digital library of my academic journey at SUSTech. I've categorized my notes into Mathematics, Computer Science, and Science & Humanities.
 
-> [!IMPORTANT]
-> **阅览说明：** > 由于课程笔记为高清矢量 PDF (总计 7.3GB+)，受 GitHub 网页预览机制限制，点击下方链接后，浏览器会自动调用内置阅读器进行预览或提示下载。
-> - **推荐操作**：直接点击下方的 **[View / Download]** 即可直达文件。
+> [!TIP]
+> **Reading Guide:** Due to the high-resolution quality of these notes (7.3GB+ in total), some browsers may take a few seconds to render the preview. Clicking the **"Direct Preview"** links below will bypass the GitHub file explorer and open the PDF directly in your browser's native viewer.
 
 <details>
 <summary><b>📐 Mathematics & Modeling</b></summary>
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Calculus I** | [View / Download](./notes/Calculus%20I.pdf?raw=true) | Pending Summary... |
-| **Calculus II** | [View / Download](./notes/Calculus%20II.pdf?raw=true) | Pending Summary... |
-| **Linear Algebra** | [View / Download](./notes/Linear%20Algebra.pdf?raw=true) | Pending Summary... |
-| **Discrete Mathematics** | [View / Download](./notes/Discrete%20Mathematics.pdf?raw=true) | Pending Summary... |
-| **Probability & Statistics** | [View / Download](./notes/Probability%20&%20Statistics.pdf?raw=true) | Pending Summary... |
-| **Mathematical Modeling** | [View / Download](./notes/Mathematical%20Modeling.pdf?raw=true) | Pending Summary... |
+| **Calculus I** | [Direct Preview](./notes/Calculus%20I.pdf?raw=true) | Pending Summary... |
+| **Calculus II** | [Direct Preview](./notes/Calculus%20II.pdf?raw=true) | Pending Summary... |
+| **Linear Algebra** | [Direct Preview](./notes/Linear%20Algebra.pdf?raw=true) | Pending Summary... |
+| **Discrete Mathematics** | [Direct Preview](./notes/Discrete%20Mathematics.pdf?raw=true) | Pending Summary... |
+| **Probability & Statistics** | [Direct Preview](./notes/Probability%20&%20Statistics.pdf?raw=true) | Pending Summary... |
+| **Mathematical Modeling** | [Direct Preview](./notes/Mathematical%20Modeling.pdf?raw=true) | Pending Summary... |
 
 </details>
 
@@ -35,11 +34,11 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Data Structure Lecture** | [View / Download](./notes/Data%20Structure%20Lecture.pdf?raw=true) | Pending Summary... |
-| **Data Structure Lab** | [View / Download](./notes/Data%20Structure%20Lab.pdf?raw=true) | Pending Summary... |
-| **Digital Logic Lecture** | [View / Download](./notes/Digital%20Logic%20Lecture.pdf?raw=true) | Pending Summary... |
-| **Digital Logic Lab** | [View / Download](./notes/Digital%20Logic%20Lab.pdf?raw=true) | Pending Summary... |
-| **Java** | [View / Download](./notes/Java.pdf?raw=true) | Pending Summary... |
+| **Data Structure Lecture** | [Direct Preview](./notes/Data%20Structure%20Lecture.pdf?raw=true) | Pending Summary... |
+| **Data Structure Lab** | [Direct Preview](./notes/Data%20Structure%20Lab.pdf?raw=true) | Pending Summary... |
+| **Digital Logic Lecture** | [Direct Preview](./notes/Digital%20Logic%20Lecture.pdf?raw=true) | Pending Summary... |
+| **Digital Logic Lab** | [Direct Preview](./notes/Digital%20Logic%20Lab.pdf?raw=true) | Pending Summary... |
+| **Java** | [Direct Preview](./notes/Java.pdf?raw=true) | Pending Summary... |
 
 </details>
 
@@ -48,13 +47,13 @@ This section serves as a digital library of my academic journey at SUSTech. I've
 
 | Subject | Resource | Status/Abstract |
 | :--- | :--- | :--- |
-| **Physics I** | [View / Download](./notes/Physics%20I.pdf?raw=true) | Pending Summary... |
-| **Physics II** | [View / Download](./notes/Physics%20II.pdf?raw=true) | Pending Summary... |
-| **Physics Experiment** | [View / Download](./notes/Physics%20Experiment.pdf?raw=true) | Pending Summary... |
-| **Chemistry** | [View / Download](./notes/Chemistry.pdf?raw=true) | Pending Summary... |
-| **Earth Science** | [View / Download](./notes/Earth%20Science.pdf?raw=true) | Pending Summary... |
-| **Economics** | [View / Download](./notes/Economics.pdf?raw=true) | Pending Summary... |
-| **EAP (English)** | [View / Download](./notes/EAP.pdf?raw=true) | Pending Summary... |
+| **Physics I** | [Direct Preview](./notes/Physics%20I.pdf?raw=true) | Pending Summary... |
+| **Physics II** | [Direct Preview](./notes/Physics%20II.pdf?raw=true) | Pending Summary... |
+| **Physics Experiment** | [Direct Preview](./notes/Physics%20Experiment.pdf?raw=true) | Pending Summary... |
+| **Chemistry** | [Direct Preview](./notes/Chemistry.pdf?raw=true) | Pending Summary... |
+| **Earth Science** | [Direct Preview](./notes/Earth%20Science.pdf?raw=true) | Pending Summary... |
+| **Economics** | [Direct Preview](./notes/Economics.pdf?raw=true) | Pending Summary... |
+| **EAP (English)** | [Direct Preview](./notes/EAP.pdf?raw=true) | Pending Summary... |
 
 </details>
 
